@@ -22,6 +22,7 @@ finalprice=0
 ilist=[]
 qlist=[]
 plist=[]
+gst=0
 
 items={"sugar":50,"salt":10,"rice":20,"oil":110,"onion":70,"tomato":30,"yeppie":50}
 print("Hii,",name," How are you...")
